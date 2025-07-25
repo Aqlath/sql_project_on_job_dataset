@@ -41,7 +41,7 @@ The analysis is conducted using datasets containing job listings, skill requirem
 - **Carousell Group** offers a slightly lower salary (~$166k) for lead/head roles.
 - **Gartner** offers the lowest average salary (~$162.5k) among the top.
   
-![Top Paying jobs](assets/top_paying_job.png)
+![Top Paying jobs](project/assets/top_paying_job.png)
 
 ---
 
@@ -54,7 +54,7 @@ The analysis is conducted using datasets containing job listings, skill requirem
 - **Big Data & DevOps Tools** (*Spark*, *Docker*, *Kubernetes*) appear in senior positions.
 
 
-![Top Paying Skills](assets/top_skill.png)
+![Top Paying Skills](project/assets/top_skill.png)
 
 ---
 
@@ -67,7 +67,7 @@ The analysis is conducted using datasets containing job listings, skill requirem
 - **R & SAS** retain niche value in specific domains like healthcare and finance.
 
 
-![Skills by Count](assets/top_skill_count.png)
+![Skills by Count](project/assets/top_skill_count.png)
 
 ---
 
@@ -80,7 +80,7 @@ The analysis is conducted using datasets containing job listings, skill requirem
 - Even **Flow** shows surprisingly good pay (~₹170,000).
 
 
-![Skills by Salary](assets/top_skill_avg.png)
+![Skills by Salary](project/assets/top_skill_avg.png)
 
 ---
 
@@ -92,7 +92,7 @@ The analysis is conducted using datasets containing job listings, skill requirem
 - **Low Demand & Low Salary**: *Word*, *Sheets*, and *Flow* lag behind in both metrics.
 
 
-![Skills by Demand and Salary](assets/top_skill_both.png)
+![Skills by Demand and Salary](project/assets/top_skill_both.png)
 
 ---
 
